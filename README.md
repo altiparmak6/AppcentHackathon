@@ -1,6 +1,6 @@
 # AppcentHackathon
 
-Coded for sustainable city. Placed 3rd
+Coded for sustainable city for 40 hours. Placed 3rd
 
 Correct use of limited resources is important for a sustainable city and conscious individuals are needed to ensure this.
 In this project, I made an application that can raise awareness about the use of water resources for primary school students.
